@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Charlie Brown’s Home</title>
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/sf.github.io/atom.xml" rel="self"/>
   
   <link href="https://skyfuckerzhao.github.io/sf.github.io/"/>
   <updated>2017-06-17T14:27:39.000Z</updated>
